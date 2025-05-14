@@ -1,0 +1,5 @@
+geoalchemy2
+sqlalchemy
+pydantic
+fastapi
+uvicorn
